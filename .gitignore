@@ -1,1 +1,3 @@
-hello.txt
+*.txt
+abc/
+**/foo
